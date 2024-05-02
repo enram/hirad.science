@@ -17,7 +17,7 @@ logo: /assets/images/nav-logo.png
 colors:
   links: "#90308B"
   banner: "#67C2C7"
-  footer: "#67C2C7"
+  footer: "#90308B"
 
 # BUILD SETTINGS
 markdown: kramdown
