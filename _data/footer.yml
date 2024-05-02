@@ -1,0 +1,51 @@
+# The footer contains columns: the first one is reserved for social icons,
+# but you can customize the others, as well as a license statement at the bottom.
+
+# Columns
+columns:
+  - description: "Project partners:"
+    links:
+    - text: Swiss Federal Institute for Forest, Snow and Landscape Research (WSL)
+      href: https://www.wsl.ch/en/
+      new_window: true
+    - text: Institute for Biodiversity and Ecosystem Dynamics, University of Amsterdam (UvA)
+      href: https://ibed.uva.nl/
+      new_window: true
+    - text: Research Institute for Nature and Forest (INBO)
+      href: https://www.vlaanderen.be/inbo/en-gb/about-us/the-own-capital/
+      new_window: true
+    - text: Finnish Meteorological Institute (FMI)
+      href: https://www.ilmatieteenlaitos.fi/
+      new_window: true
+    - text: Agroscope
+      href: https://agroscope.admin.ch/agroscope/en/home.html
+      new_window: true
+  - description: "Self-financed partners:"
+    links:
+    - text: Swiss Ornithological Institute (SOI)
+      href: https://www.vogelwarte.ch/en/home/
+      new_window: true
+    - text: Swiss BirdRadar Solutions AG (SBRS)
+      href: https://swiss-birdradar.com/
+      new_window: true
+    - text: Météo-France
+      href: https://meteofrance.fr/
+      new_window: true
+    - text: Deutsches Zentrum für Luft- und Raumfahrt (DLR)
+      href: https://www.dlr.de/DE/Home/home_node.html
+      new_window: true
+    - text: Royal Netherlands Air Force (RNLAF)
+      href: https://english.defensie.nl/organisation/air-force
+      new_window: true
+    - text: Actions at EBMF
+      href: http://actionsatebmf.org
+      new_window: true
+    - text: Lund University
+      href: https://www.lunduniversity.lu.se/
+      new_window: true
+  - description: This project is funded through ...
+
+# License
+license: >
+  Content on this site is licensed under a [CC BY 4.0 License](http://creativecommons.org/licenses/by/4.0/).
+  \| Theme: [petridish](https://github.com/peterdesmet/petridish)
