@@ -1,0 +1,38 @@
+# SITE SETTINGS
+title: HiRAD
+
+# SOCIAL PROFILES
+social:
+  # email: 
+  github: enram
+
+# THEME SETTINGS
+theme: minima # Fallback theme
+remote_theme: peterdesmet/petridish@3.0
+# posts_on_home: 3
+tweets_on_home: false
+archive_permalink: /news/
+github_edit: true
+logo: /assets/images/nav-logo.png
+colors:
+  links: "#90308B"
+  banner: "#67C2C7"
+  footer: "#67C2C7"
+
+# BUILD SETTINGS
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+
+# FRONTMATTER DEFAULTS
+defaults:
+  - scope:
+      type: "posts"
+    values:
+      permalink: "/news/:year/:slug/"
