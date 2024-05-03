@@ -1,0 +1,184 @@
+# Project team members listed below will appear on the /team page
+
+- name: Silke Bauer
+  role: Project coordinator / WP 5 leader
+  image:
+  description:
+  orcid:
+  email:
+  researchgate:
+  googlescholar:
+  twitter:
+  mastodon:
+  github:
+
+- name: Thibault Desert
+  image:
+  description:
+  orcid:
+  email:
+  researchgate:
+  googlescholar:
+  twitter:
+  mastodon:
+  github:
+
+- name: Peter Desmet
+  role: WP 1 leader
+  image: https://avatars1.githubusercontent.com/u/600993?s=460&v=4
+  description: >
+    Peter is passionate about open data and open science. He works as open data coordinator for the Open science lab for biodiversity at the [Research Institute for Nature and Forest (INBO)](https://www.vlaanderen.be/inbo/en-gb/).
+  orcid: 0000-0002-8442-8025
+  email: peter.desmet@inbo.be
+  mastodon: https://mastodon.social/@peterdesmet
+  github: peterdesmet
+
+- name: Andrew Farnsworth
+  image:
+  description:
+  orcid:
+  email:
+  researchgate:
+  googlescholar:
+  twitter:
+  mastodon:
+  github:
+
+- name: Birgen Haest
+  role: WP 2 leader
+  image: assets/images/birgen-haest.jpg
+  description: >
+    Birgen is a computational ecologist studying animal migration. As a research associate at the [Swiss Ornithological Institute](https://www.vogelwarte.ch/en/home/), he uses radar to quantify the migratory movements of insects, bats, and birds, and understand the drivers thereof.
+  orcid: 0000-0002-8739-6460
+  email: birgen.haest@vogelwarte.ch
+  researchgate: Birgen-Haest
+  googlescholar: XFmZMR0AAAAJ
+  twitter: Birgen_Haest
+  github: BirgenH
+
+- name: Will Hawkes
+  image: assets/images/will-hawkes.jpg
+  description:
+  orcid: 0000-0003-0661-7864
+  email: will.leo.hawkes@vogelwarte.ch
+  researchgate: Will-Hawkes
+  googlescholar: M7JFWUMAAAAJ
+  twitter: WillLeoHawkes
+
+- name: Bart Hoekstra
+  image: assets/images/bart-hoekstra.jpg
+  description: >
+    Bart is a bird migration watcher turned radar ecologist. He uses weather radars to forecast and map large-scale movements of migratory birds, in support of nature-inclusive wind energy. Bart is a PhD candidate at the [Institute for Biodiversity and Ecosystem Dynamics](https://ibed.uva.nl/) at the University of Amsterdam.
+  orcid: 0000-0002-7085-3805
+  email: b.d.hoekstra@uva.nl
+  researchgate: Bart-Hoekstra-2
+  googlescholar: ccuIbKQAAAAJ
+  twitter: barthoekstra
+  github: barthoekstra
+
+- name: Pieter Huybrechts
+  image: https://avatars.githubusercontent.com/u/48065851?v=4
+  description:
+  orcid: 0000-0002-6658-6062
+  email: pieter.huybrechts@inbo.be
+  github: PietrH
+
+- name: Dominik Kleger
+  image:
+  description: >
+    Dominik is currently CEO of [Swiss Birdradar Solution](https://swiss-birdradar.com/) (2024). He has a background in electrical engineering and digital signal processing and has been working with radar technology for many years.
+  orcid: 0009-0007-8476-2051
+  email: dominik.kleger@swiss-birdradar.com
+
+- name: Eva Knop
+  image:
+  description:
+  orcid:
+  email:
+  researchgate:
+  googlescholar:
+  twitter:
+  mastodon:
+  github:
+
+- name: Bart Kranstauber
+  role: WP 2 leader
+  image: assets/images/bart-kranstauber.jpg
+  description: >
+    Bart is a computational ecologist interested in space use and movement, in recent years he has used radars to study movement patterns in air space and developed predictive models for bird migration. Currently Bart is based at the [Institute for Biodiversity and Ecosystem Dynamics](https://ibed.uva.nl/) of the University of Amsterdam.
+  orcid: 0000-0001-8303-780X
+  email: b.kranstauber@uva.nl
+  googlescholar: Pnx8P3EAAAAJ
+  github: bart1
+
+- name: Felix Liechti
+  image: assets/images/felix-liechti.png
+  description: >
+    Felix is an ecologist with broad interests, but a particular focus on bird migration. He has been fascinated for more than 30 years in using modern technology like radar and miniaturized data-loggers to investigate animal movements that are otherwise invisible. Felix led the Bird Migration Department at the Swiss Ornithological Institute, and has after retirement joined the private company [Swiss Birdradar Solutions AG](https://swiss-birdradar.com/). His focus has now extended to insect migration.
+  orcid: 0000-0001-9473-0837
+  email: felix.liechti@swiss-birdradar.com
+  researchgate: Felix-Liechti
+
+- name: Isabel Metz
+  image: assets/images/isabel-metz.jpg
+  description: >
+    Isabel has been investigating means to involve air traffic control in wildlife hazard management by providing them with real-time and predicted wildlife movement information based on radar data since 2015. She is a research associate at the [German Aerospace Center’s Institute of Flight Guidance](https://www.dlr.de/DE/Home/home_node.html) where she heads the Air Traffic Control Tower simulation facilities.
+  orcid: 0000-0002-7463-3949
+  email: isabel.metz@dlr.de
+  researchgate: Isabel-Metz-2
+  googlescholar: nLxyxYMAAAAJ
+
+- name: Cecilia Nilsson
+  image: assets/images/cecilia-nilsson.jpg
+  description: >
+    Cecilia is a behavioral ecologist, working with bird monitoring, flight behviour and radar ornithology. She currently works at [Lund University](https://www.lunduniversity.lu.se/), where she studies large scale patterns of bird migration using data from networks of weather radars.
+  orcid: 0000-0001-8957-4411
+  email: cecilia.nilsson@biol.lu.se
+  researchgate: Cecilia-Nilsson-8
+  googlescholar: A-9PdlkAAAAJ
+  github: cecilianilsson709
+
+- name: Benjamin Rutschmann
+  image:
+  description:
+  orcid:
+  email:
+  researchgate:
+  googlescholar:
+  twitter:
+  mastodon:
+  github:
+
+- name: Judy Shamoun-Baranes
+  role: WP 5 leader
+  image: assets/images/judy-shamoun-baranes.jpg
+  description: >
+    Judy is an ecologist fascinated by animal movement and especially avian flight. Her research aims at understanding how intrinsic and external factors influence animal movement and the short and long term consequences of movement strategies. Judy is a professor at the [Institute for Biodiversity and Ecosystem Dynamics](https://ibed.uva.nl/) at the University of Amsterdam. 
+  orcid: 0000-0002-1652-7646
+  email: j.z.shamoun-baranes@uva.nl
+  researchgate: Judy-Shamoun-Baranes
+  googlescholar: qLNgmJkAAAAJ
+  twitter: BaranesJudy
+
+- name: Hans van Gasteren
+  image:
+  description:
+  orcid:
+  email:
+  researchgate:
+  googlescholar:
+  twitter:
+  mastodon:
+  github:
+
+- name: Nadja Weisshaupt
+  role: WP 3 leader
+  image:
+  description:
+  orcid:
+  email:
+  researchgate:
+  googlescholar:
+  twitter:
+  mastodon:
+  github:
