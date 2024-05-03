@@ -12,7 +12,7 @@ columns:
       href: https://ibed.uva.nl/
       new_window: true
     - text: Research Institute for Nature and Forest (INBO)
-      href: https://www.vlaanderen.be/inbo/en-gb/about-us/the-own-capital/
+      href: https://www.vlaanderen.be/inbo/en-gb/
       new_window: true
     - text: Finnish Meteorological Institute (FMI)
       href: https://www.ilmatieteenlaitos.fi/
@@ -43,7 +43,8 @@ columns:
     - text: Lund University
       href: https://www.lunduniversity.lu.se/
       new_window: true
-  - description: This project is funded through ...
+  - description: >
+     HiRAD is funded through the [2022-2023 Biodiversa+ BiodivMon call](https://www.biodiversa.eu/2022/10/07/2022-2023-joint-call/) for research proposals, with the funding organisations Swiss National Science Foundation (SNF 31BD30_216840), Belgian Federal Science Policy Office (BelSPO RT/24/HiRAD), Netherlands Organisation for Scientific Research (NWO EP.1512.22.003), and Academy of Finland (aka 359864).
 
 # License
 license: >
