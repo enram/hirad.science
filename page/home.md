@@ -2,7 +2,6 @@
 layout: home
 title: HiRAD
 description: Harmonizing and integrating Radar-based approaches for monitoring Aerial bioDiversity
-background: 
 permalink: /
 ---
 
