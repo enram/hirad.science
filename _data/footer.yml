@@ -22,9 +22,9 @@ columns:
       new_window: true
   - description: "Self-financed partners:"
     links:
-    - text: Swiss Ornithological Institute (SOI)
-      href: https://www.vogelwarte.ch/en/home/
-      new_window: true
+#    - text: Swiss Ornithological Institute (SOI)
+#      href: https://www.vogelwarte.ch/en/home/
+#      new_window: true
     - text: Swiss BirdRadar Solutions AG (SBRS)
       href: https://swiss-birdradar.com/
       new_window: true
@@ -40,9 +40,9 @@ columns:
     - text: Actions at EBMF
       href: http://actionsatebmf.org
       new_window: true
-    - text: Lund University
-      href: https://www.lunduniversity.lu.se/
-      new_window: true
+#    - text: Lund University
+#      href: https://www.lunduniversity.lu.se/
+#      new_window: true
   - description: >
      HiRAD is funded through the [2022-2023 Biodiversa+ BiodivMon call](https://www.biodiversa.eu/2022/10/07/2022-2023-joint-call/) for research proposals, with the funding organisations Swiss National Science Foundation (SNF 31BD30_216840), Belgian Federal Science Policy Office (BelSPO RT/24/HiRAD), Netherlands Organisation for Scientific Research (NWO EP.1512.22.003), and Academy of Finland (aka 359864).
 
