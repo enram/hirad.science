@@ -14,14 +14,11 @@
 
 - name: Thibault Desert
   image:
-  description:
+  description: >
+    Thibault is a physics engineer working on atmospheric measurement systems. He joined [Météo-France](https://meteofrance.fr/) in February 2022 to work on the detection and quantification of migration with meteorological radars.
   orcid:
-  email:
-  researchgate:
-  googlescholar:
-  twitter:
-  mastodon:
-  github:
+  email: thibault.desert@meteo.fr
+  researchgate: Thibault-Desert
 
 - name: Peter Desmet
   role: WP 1 leader
