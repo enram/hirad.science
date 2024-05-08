@@ -26,6 +26,7 @@
     Peter is passionate about open data and open science. He works as open data coordinator for the [Open science lab for biodiversity](https://oscibio.inbo.be) at the Research Institute for Nature and Forest (INBO).
   orcid: 0000-0002-8442-8025
   email: peter.desmet@inbo.be
+  researchgate: Peter-Desmet
   mastodon: https://mastodon.social/@peterdesmet
   github: peterdesmet
 
@@ -136,10 +137,10 @@
 - name: Benjamin Rutschmann
   image:
   description:
-  orcid:
+  orcid: 0000-0001-6589-6408
   email:
-  researchgate:
-  googlescholar:
+  researchgate: Benjamin-Rutschmann
+  googlescholar: J61BDM0AAAAJ
   twitter:
   mastodon:
   github:
@@ -169,7 +170,7 @@
   role: WP 3 leader
   image:
   description:
-  orcid:
+  orcid: 0000-0003-4510-4121
   email:
   researchgate:
   googlescholar:
