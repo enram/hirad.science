@@ -2,15 +2,14 @@
 
 - name: Silke Bauer
   role: Project coordinator / WP 5 leader
-  image:
-  description:
-  orcid:
-  email:
-  researchgate:
-  googlescholar:
-  twitter:
-  mastodon:
-  github:
+  image: assets/images/silke-bauer.jpg
+  description: >
+    Animal migrations, especially their large scale patterns and timing are Silke’s core research interest. Although much of her research has been devoted to migrants and migrations themselves, it increasingly also recognizes that migrants can have a multitude of effects and interact with the resident communities visited during their journeys. Silke is a researcher at the [Federal Research Institute (WSL)](https://www.wsl.ch).
+  orcid: 0000-0002-0844-164X
+  email: silke.bauer@wsl.ch
+  googlescholar: Ap3A4eoAAAAJ
+  twitter: silke_bauer
+  github: silkebauer
 
 - name: Thibault Desert
   image:
@@ -24,22 +23,20 @@
   role: WP 1 leader
   image: https://avatars1.githubusercontent.com/u/600993?s=460&v=4
   description: >
-    Peter is passionate about open data and open science. He works as open data coordinator for the Open science lab for biodiversity at the [Research Institute for Nature and Forest (INBO)](https://www.vlaanderen.be/inbo/en-gb/).
+    Peter is passionate about open data and open science. He works as open data coordinator for the [Open science lab for biodiversity](https://oscibio.inbo.be) at the Research Institute for Nature and Forest (INBO).
   orcid: 0000-0002-8442-8025
   email: peter.desmet@inbo.be
   mastodon: https://mastodon.social/@peterdesmet
   github: peterdesmet
 
 - name: Andrew Farnsworth
-  image:
-  description:
-  orcid:
-  email:
-  researchgate:
-  googlescholar:
-  twitter:
-  mastodon:
-  github:
+  image: assets/images/andrew-farnsworth.jpg
+  description: >
+    Andrew is a visiting scientist at the [Cornell Lab of Ornithology](https://www.birds.cornell.edu/), having led or guided the BirdCast project since 1999. He studies bird migration, bird distribution, and their relationships to meteorological, climatological, and anthropogenic factors, as well as leading philanthropic efforts to promote biodiversity and land conservation.
+  orcid: 0000-0002-9854-4449
+  email: andrew@actionsatembf.org
+  researchgate: Andrew-Farnsworth
+  googlescholar: ipk79FsAAAAJ
 
 - name: Birgen Haest
   role: WP 2 leader
@@ -75,7 +72,8 @@
 
 - name: Pieter Huybrechts
   image: https://avatars.githubusercontent.com/u/48065851?v=4
-  description:
+  description: >
+    Pieter is a research software engineer and data scientist affiliated with the [Research Institute for Nature and Forest (INBO)](https://www.vlaanderen.be/inbo/en-gb/). He employs his expertise in R programming and data analysis in contributing to serveral open source software packages.
   orcid: 0000-0002-6658-6062
   email: pieter.huybrechts@inbo.be
   github: PietrH
@@ -159,14 +157,13 @@
 
 - name: Hans van Gasteren
   image:
-  description:
-  orcid:
-  email:
-  researchgate:
-  googlescholar:
-  twitter:
-  mastodon:
-  github:
+  description: >
+    Hans is an wildlife ecologist for more than 35 years at the [Royal Netherlands Air Force](https://english.defensie.nl/organisation/air-force). Working on the edge of nature conservataion and military operations. Particular interested in bird migration research by radar all to understand bird migration ecology, local bird movements around airports with respect to flight safety issues and prediction of bird migration movements.
+  orcid: 0000-0002-4810-3899
+  email: jr.v.gasteren@mindef.nl
+  researchgate: Hans-Van-Gasteren
+  googlescholar: 1BwbtGQAAAAJ
+  twitter: hvangasteren
 
 - name: Nadja Weisshaupt
   role: WP 3 leader
