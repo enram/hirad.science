@@ -88,14 +88,13 @@
 
 - name: Eva Knop
   image:
-  description:
-  orcid:
-  email:
-  researchgate:
-  googlescholar:
-  twitter:
-  mastodon:
-  github:
+  description: >
+    The general research expertise of Eva Knop is on the ecological consequences of global change for biodiversity, species interactions, and ecosystem functioning, with a particular focus on insects, and land-use change (agricultural intensification, urbanization, and the associated light pollution) and climate change as major driver of global change. On the one hand, she is interested in the large-scale spatio-temporal patterns and processes of those changes within and across ecosystems. On the other hand, on a smaller scale she studies the underlying mechanisms of the changes in an experimental way. Eva Knop is based at [Agroscope](https://agroscope.admin.ch/agroscope/en/home.html) and associated with the [University of Zürich](https://www.knoplab.ch).
+  orcid: 0000-0001-9402-2216
+  email: eva.knop@ieu.uzh.ch
+  researchgate: E-Knop
+  googlescholar: q2Lwy0wAAAAJ
+  twitter: eva_knop
 
 - name: Bart Kranstauber
   role: WP 2 leader
