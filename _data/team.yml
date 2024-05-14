@@ -53,7 +53,8 @@
 
 - name: Will Hawkes
   image: assets/images/will-hawkes.jpg
-  description:
+  description: >
+    Will is an insect migration scientist based at the [Swiss Ornithological Institute](https://www.vogelwarte.ch/en/home/). His research involves using ground level trapping and radar techniques to investigate insect migration. He is fascinated by the life histories and identities of the insects, and loves telling the stories of these most remarkable of migrants.
   orcid: 0000-0003-0661-7864
   email: will.leo.hawkes@vogelwarte.ch
   researchgate: Will-Hawkes
@@ -87,7 +88,7 @@
   email: dominik.kleger@swiss-birdradar.com
 
 - name: Eva Knop
-  image:
+  image: assets/images/eva-knop.jpg
   description: >
     Eva studies the ecological consequences of global land-use and climate change, with a particular focus on insects. On the one hand, she is interested in the large-scale spatio-temporal patterns and processes of those changes within and across ecosystems. On the other hand, on a smaller scale she studies the underlying mechanisms of the changes in an experimental way. Eva Knop is based at [Agroscope](https://agroscope.admin.ch/agroscope/en/home.html) and associated with the [University of Zürich](https://www.knoplab.ch).
   orcid: 0000-0001-9402-2216
