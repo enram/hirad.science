@@ -12,7 +12,7 @@
   github: silkebauer
 
 - name: Thibault Desert
-  image:
+  image: assets/images/thibault-desert.jpg
   description: >
     Thibault is a physics engineer working on atmospheric measurement systems. He joined [Météo-France](https://meteofrance.fr/) in February 2022 to work on the detection and quantification of migration with meteorological radars.
   orcid:
