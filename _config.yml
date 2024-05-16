@@ -33,6 +33,10 @@ exclude:
 # FRONTMATTER DEFAULTS
 defaults:
   - scope:
+      type: "pages"
+    values:
+      background: /assets/backgrounds/default.png
+  - scope:
       type: "posts"
     values:
       permalink: "/news/:year/:slug/"
