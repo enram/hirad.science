@@ -18,10 +18,6 @@ The repository structure follows that of Jekyll websites.
 - Footer content: [_data/footer.yml](_data/footer.yml)
 - Team members: [_data/team.yml](_data/team.yml)
 
-## Contributors
-
-[List of contributors](https://github.com/enram/hirad.science/contributors)
-
 ## License
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
