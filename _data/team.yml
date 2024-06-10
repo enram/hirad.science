@@ -166,12 +166,9 @@
 
 - name: Nadja Weisshaupt
   role: WP 3 leader
-  image:
-  description:
+  image: assets/images/nadja-weisshaupt.jpg
+  description: >
+    Nadja’s main research interests are bird migration and conservation. She has used a wide range of bird monitoring data and techniques, including various remote sensing tools. She works as a radar ornithologist at the [Finnish Meteorological Institute](https://www.ilmatieteenlaitos.fi/) developing aeroecological methodologies and services for various user groups.
   orcid: 0000-0003-4510-4121
-  email:
-  researchgate:
-  googlescholar:
-  twitter:
-  mastodon:
-  github:
+  email: nadja.weisshaupt@fmi.fi
+  researchgate: Nadja-Weisshaupt
