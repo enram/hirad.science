@@ -6,5 +6,7 @@
   href: /about/
 - text: Team
   href: /team/
-# - text: Output
-#  href: /output/
+- text: Output
+  menu:
+  - text: Publications
+    href: /publications/
