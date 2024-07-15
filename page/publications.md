@@ -10,4 +10,6 @@ toc: true
 
 **Kranstauber B**, Safi K, Scharf AK (2024). move2: R package for processing movement data. _Methods in Ecology and Evolution_ 00, 1–7. <https://doi.org/10.1111/2041-210X.14383>
 
+---
+
 See also [publications that were outputs of the GloBAM project](https://globam.science/publications/).
