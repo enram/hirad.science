@@ -11,3 +11,4 @@ Bart Kranstauber, Bart Hoekstra, Silke Bauer, Adriaan M Dokter, Peter Desmet, Ha
 
 Hidde Leijnse, Bart Hoekstra, Bart Kranstauber, Günther Haase, Klaus Stephan, Silke Bauer, Peter Desmet, Adriaan M Dokter, Pieter Huybrechts, Cecilia Nilsson, Nadia Weisshaupt, Judy Z Shamoun-Baranes (2024) Our Static, their signal: Challenges using the European radar network for aeroecoly. 12th European conference on RADar in meteorology and hydrology ([ERAD 2024](https://www.erad2024.it/)), Rome, Italy, 9-13 September 2024. __Poster.__
 
+Nadja Weisshaupt, Pekka Alho (2024) The role of weather radar applications in environmental impact assessment. 12th European conference on RADar in meteorology and hydrology ([ERAD 2024](https://www.erad2024.it/)), Rome, Italy, 9-13 September 2024. __Accepted presentation.__
