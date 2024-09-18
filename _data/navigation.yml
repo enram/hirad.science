@@ -9,4 +9,6 @@
 - text: Output
   menu:
   - text: Publications
-    href: /publications/
+    href: /publications/  
+  - text: Outreach
+    href: /outreach/
