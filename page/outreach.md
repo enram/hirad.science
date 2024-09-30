@@ -13,7 +13,7 @@ Leijnse H, **Hoekstra B**, **Kranstauber B**, Haase G, Stephan K, **Bauer S**, *
 
 **Weisshaupt N**, Alho P (2024) The role of weather radar applications in environmental impact assessment. 12th European conference on RADar in meteorology and hydrology ([ERAD 2024](https://www.erad2024.it/)), Rome, Italy, 9-13 September 2024. _Accepted presentation._
 
-**Haest B**, **Liechti F**, **Hawkes W L**, Åkesson S, Chapman J, **Kleger D**, **Knop E**, Lebender M, Onrubia A, Preatoni D, Rutschmann B, **Shamoun-Baranes J**, **Bauer S** (2024) Characterizing migratory insect movements across the Western Palearctic. 4th International Radar Aeroecology Conference ([IRAC 2024](https://sites.udel.edu/aeroecologyprogram/irac2024/)), Delaware, USA, 8-9 August 2024. _Invited keynote talk (mid-career award)._
+**Haest B**, **Liechti F**, **Hawkes W L**, Åkesson S, Chapman J, **Kleger D**, **Knop E**, Lebender M, Onrubia A, Preatoni D, **Rutschmann B**, **Shamoun-Baranes J**, **Bauer S** (2024) Characterizing migratory insect movements across the Western Palearctic. 4th International Radar Aeroecology Conference ([IRAC 2024](https://sites.udel.edu/aeroecologyprogram/irac2024/)), Delaware, USA, 8-9 August 2024. _Invited keynote talk (mid-career award)._
 
 **Hawkes W L**, Selinger F, Keišs O, **Haest B** (2024) The relationship between aerial and ground insect activity. 4th International Radar Aeroecology Conference ([IRAC 2024](https://sites.udel.edu/aeroecologyprogram/irac2024/)), Delaware, USA, 8-9 August 2024. _Accepted presentation._
 
